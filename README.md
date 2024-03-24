@@ -7,6 +7,7 @@ You will learn here:
 - how to interact with the LLM
 - play with some parameters
 - how to build a simple interface to play with your LLM
+- how to use Gradio
 
 ----
 Bienvenue dans l'activité de codage pour Technovation - Code Avec moi! Ici tu vas apprendre :
@@ -17,3 +18,4 @@ Bienvenue dans l'activité de codage pour Technovation - Code Avec moi! Ici tu v
 - comment interagir avec le LLM
 - jouer avec quelques paramètres du modèle
 - comment construire une interface simple pour jouer avec votre LLM
+- comment utiliser Gradio
